@@ -40,7 +40,10 @@ end	25	629	540
 19	25	0
  ```
 ### Loaded Chart
- ![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart2graph.PNG)
+ ![Image of Simple Loaded Chart](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart2graph.PNG)
+## Simple Debug For FlowChart
+ ![Image of Simple Debug](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart3sim.PNG
+ 
  
  
 ### Installation
