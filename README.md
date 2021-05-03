@@ -47,4 +47,7 @@ end	25	629	540
  
  
 ### Installation
-Build the solution and run
+Build the solution and execute .exe ,using MS studio or CMD
+ ```sh
+ msbuild "PT Project.sln"
+  ```
