@@ -20,8 +20,25 @@ Toolbar include instruction & drawing set.
 Full control unit output truth table for each instruction
 ![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart1run.PNG)
 ## Simple Load for a FlowChart from Txt
-Full control unit output truth table for each instruction
-![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart2.txt)
+8	
+start	1	373	88	
+WRITE	3	315	157	"enter positive value"	
+READ	11	402	229	m	
+COND	13	473	315	m	GRT	0	
+WRITE	15	703	285	"Wrong  again"	
+OP_ASSIGN	17	173	388	m	m	MUL	m	
+WRITE	19	196	473	m	
+end	25	629	540	
+8	
+1	3	0	
+3	11	0	
+15	3	0	
+13	15	2	
+11	13	0	
+13	17	1	
+17	19	0	
+19	25	0
+
 
 
 ### Installation
