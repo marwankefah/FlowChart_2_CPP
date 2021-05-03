@@ -13,15 +13,15 @@ FLowChart_2_Code For Kids is a simple CPP program ,enabling kids to draw a simpl
   - Export tbe flowchart to a CPP file
 
 # Examples
-## Sample of a Simple FlowChart Drawn 
+## Simple FlowChart Drawn 
 Toolbar include instruction & drawing set.  
 ![Image of Simple FlowChart](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart1graph.PNG)
-## Control Unit
+## Simple Run for FlowChart
 Full control unit output truth table for each instruction
-![Image of Full Final Control Unit Design](https://i.ibb.co/SX86fgK/Control-TT.png)
-### Schema
-Fully pipelined diagram illustrating the architecture of the processor, in addition to the layout of _control, hazard detection, interrupt handling and forwarding units_
-![Image of Full Final Schema](https://i.ibb.co/F4RqtGs/Pipelined-Hazard-Schema1-Pipelined-ctrl-frwrd-unit-Pipelined-ctrl-frwrd-unit.png)
+![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart1run.PNG)rwrd-unit-Pipelined-ctrl-frwrd-unit.png)
+## Simple Run for FlowChart
+Full control unit output truth table for each instruction
+![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart1run.PNG)rwrd-unit-Pipelined-ctrl-frwrd-unit.png)
 
 
 ### Installation
