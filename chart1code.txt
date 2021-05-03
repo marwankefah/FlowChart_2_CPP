@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+double price;
+cin>>price;
+if(price>1000)
+{
+double discount;
+discount =price * 0.01;
+}
+else
+{
+double discount;
+discount=price * 0.02;
+}
+cout<<discount<<endl;
+return 0;
+}
