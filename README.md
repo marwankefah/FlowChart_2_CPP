@@ -17,9 +17,8 @@ FLowChart_2_Code For Kids is a simple CPP program ,enabling kids to draw a simpl
 Toolbar include instruction & drawing set.  
 ![Image of Simple FlowChart](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart1graph.PNG)
 ## Simple Run for FlowChart
-Full control unit output truth table for each instruction
 ![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart1run.PNG)
-## Simple Load for a FlowChart from Txt
+## Simple Txt File to Load Chart From
  ```sh
 8	
 start	1	373	88	
@@ -40,5 +39,9 @@ end	25	629	540
 17	19	0	
 19	25	0
  ```
+### Loaded Chart
+ ![Image of Simple Run](https://github.com/marwankefah/FlowChart_2_CPP/blob/master/chart2graph.PNG)
+ 
+ 
 ### Installation
 Build the solution and run
