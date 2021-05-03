@@ -1,0 +1,16 @@
+7	
+start	1	461	110	
+READ	3	354	172	price	
+COND	5	443	272	price	GRT	1000	
+OP_ASSIGN	7	109	377	discount	price	MUL	0.01	
+OP_ASSIGN	9	588	367	discount	price	MUL	0.02	
+WRITE	11	312	460	discount	
+end	13	437	539	
+7	
+1	3	0	
+3	5	0	
+5	7	1	
+5	9	2	
+7	11	0	
+9	11	0	
+11	13	0	
